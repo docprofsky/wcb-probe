@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name wcb-probe)(type KiCad)(uri "$(KIPRJMOD)/wcb-probe.pretty")(options "")(descr ""))
+)
